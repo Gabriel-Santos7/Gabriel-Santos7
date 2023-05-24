@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Gabriel</h1>
 <h3 align="center">A fullstack developer</h3>
 
-- 📄 **Know about me** - Pleasure! I'm Gabriel, I'm 20 years old, I'm a student of Systems Analysis and Development at Fatec Rubens Lara - Santos/SP. I started programming in 2019 when I entered the Systems Development technical course at Etec Doutora Ruth Cardoso - São Vicente/SP.
+- 📄 **Know about me** - Pleasure! I'm Gabriel, I'm 22 years old, I'm a student of Systems Analysis and Development at Fatec Rubens Lara - Santos/SP. I started programming in 2019 when I entered the Systems Development technical course at Etec Doutora Ruth Cardoso - São Vicente/SP.
 
 - ⚡ **I’m currently learning** - I have greater domain in HTML5, CSS3, Php and with the Laravel 8 framework, but I am willing to learn new languages, frameworks or development tools. Currently studying Javascript and React.js/Next.js
 
